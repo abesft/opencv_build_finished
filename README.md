@@ -14,9 +14,11 @@ You can download the complied opencv package from **release** page mentioned bel
 | 3.4.5  |        |   √    |   √    |   √    |   √  |  √    |              |√             |  √      |
 | 4.0.0α |        |   √    |   √    |        |   √  |  √    |              |√             |  √      |
 | 4.0.0  |        |        |   √    |   √    |   √  |  √    |      √       |√             |  √      |
+| 4.0.1  |        |        |   √    |   √    |   √  |  √    |              |√             |  √      |
 
 ## Ubuntu 16.04
 | OpenCV | g++5.4.0  | Debug/Release| contrib_module | 
 |:------:|:---------:|:------------:|:--------------:|
 | 3.4.3  |      √    |       √      |         √      |
 | 4.0.0  |      √    |       √      |         √      |
+| 4.0.1  |      √    |       √      |         √      |
